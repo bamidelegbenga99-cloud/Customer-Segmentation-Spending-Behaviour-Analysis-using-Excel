@@ -204,6 +204,8 @@ These included:
 - Customer Class.
 - Customer Seg.
 
+![image feature engineered](https://github.com/bamidelegbenga99-cloud/Customer-Segmentation-Spending-Behaviour-Analysis-using-Excel/blob/a0568c12472d1ded0ffd53e2130065bc829bf8a7/Feature%20enginnered.PNG)
+
 ### Step 4: KPI Development Using DAX
 
 Developed eight DAX measures in Power Pivot to calculate the headline business metrics.
