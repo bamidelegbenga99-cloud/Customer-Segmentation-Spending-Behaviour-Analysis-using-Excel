@@ -130,6 +130,8 @@ It explores:
 - Work-experience distribution.
 - Family-size comparisons.
 
+![image customer behaviour](https://github.com/bamidelegbenga99-cloud/Customer-Segmentation-Spending-Behaviour-Analysis-using-Excel/blob/263dfed347e984a48f0db17a9ec4a2c1b1f3a8fb/Behaviour%20pg2.PNG)
+
 The objective is to identify where higher-scoring customers are concentrated and understand how different customer characteristics relate to spending behaviour.
 
 ### 3. Income and Spending
