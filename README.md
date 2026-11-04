@@ -112,7 +112,7 @@ This dashboard explores customer demographics and segmentation, including:
 - Customer classification.
 - High-value customer distribution.
 
-[image Customer Distribution](https://github.com/bamidelegbenga99-cloud/Customer-Segmentation-Spending-Behaviour-Analysis-using-Excel/blob/9836dc0fa38f107c954fe7e6f0fef69d1abfb32e/Customer%20distribution.PNG)
+![image Customer Distribution](https://github.com/bamidelegbenga99-cloud/Customer-Segmentation-Spending-Behaviour-Analysis-using-Excel/blob/9836dc0fa38f107c954fe7e6f0fef69d1abfb32e/Customer%20distribution.PNG)
 
 **Interactive features:** Slicers allow users to filter the dashboard by customer class and purchasing status.
 
