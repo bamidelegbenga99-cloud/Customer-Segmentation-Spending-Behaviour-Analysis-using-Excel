@@ -261,6 +261,8 @@ The analysis further developed seven purchasing personas by combining spending-s
 | Premium Buyer | 195 | High income; high spending |
 | **Total** | **2,000** | |
 
+![image persona](https://github.com/bamidelegbenga99-cloud/Customer-Segmentation-Spending-Behaviour-Analysis-using-Excel/blob/4230ba5ba8f9486292a7e60405488b98c72b766b/persona.PNG)
+
 ### Segmentation Insights
 
 The segmentation reveals that customers with similar income levels can exhibit different spending behaviours.
