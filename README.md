@@ -147,6 +147,8 @@ It includes:
 - Income-band comparisons.
 - Cross-tabulation of income groups against spending-score groups.
 
+![image Income and spending](https://github.com/bamidelegbenga99-cloud/Customer-Segmentation-Spending-Behaviour-Analysis-using-Excel/blob/5bbe6fa5b7034ffc821309b94f367749cd93d866/income%20%26%20spending%20pg3.PNG)
+
 This view helps decision-makers understand whether higher income necessarily translates into higher spending.
 
 ---
