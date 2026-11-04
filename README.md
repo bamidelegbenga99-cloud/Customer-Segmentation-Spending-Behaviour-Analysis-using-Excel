@@ -73,6 +73,8 @@ The analysis was designed to answer the following business questions:
 
 ##  Key Performance Indicators
 
+![KPI image](https://github.com/bamidelegbenga99-cloud/Customer-Segmentation-Spending-Behaviour-Analysis-using-Excel/blob/3351085b5111ddc0222ea2a952d6f16b8f53ba8c/KPI.PNG)
+
 | KPI | Result |
 |---|---:|
 | Total Customers | **2,000** |
