@@ -73,8 +73,6 @@ The analysis was designed to answer the following business questions:
 
 ##  Key Performance Indicators
 
-![KPI image](https://github.com/bamidelegbenga99-cloud/Customer-Segmentation-Spending-Behaviour-Analysis-using-Excel/blob/3351085b5111ddc0222ea2a952d6f16b8f53ba8c/KPI.PNG)
-
 | KPI | Result |
 |---|---:|
 | Total Customers | **2,000** |
@@ -86,6 +84,8 @@ The analysis was designed to answer the following business questions:
 | High-Class Customers (`Customer_Class = High`) | **1,047** |
 | Reported Score-to-Income Ratio | **0.05%** |
 | Income–Spending Score Correlation | **0.02** |
+
+![KPI image](https://github.com/bamidelegbenga99-cloud/Customer-Segmentation-Spending-Behaviour-Analysis-using-Excel/blob/3351085b5111ddc0222ea2a952d6f16b8f53ba8c/KPI.PNG)
 
 > **Metric clarification:** The 0.05% figure represents a ratio of an index score to an income amount. It is not a monetary spending-to-income ratio because actual customer expenditure was not supplied. Also, high-value customers (spending score ≥67) and high-class customers (`Customer_Class = High`) are two different classifications.
 
